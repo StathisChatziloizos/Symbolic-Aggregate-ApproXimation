@@ -25,4 +25,4 @@ The code demonstrates:
 ```bash
 pip install numpy scipy matplotlib
 ```
-1. Run the jupyter notebook
+2. Run the cells of `SAX.ipynb`
